@@ -60,11 +60,11 @@ Hackerrank/
 
 | Language | Solved Problems | Last Updated |
 |----------|----------------:|-------------:|
-| Java | 5 | 2025-08-07 |
+| Java | 9 | 2025-08-07 |
 | Cpp | 0 | 2025-08-07 |
 | Python | 0 | 2025-08-07 |
 | React | 0 | 2025-08-07 |
 | Functional | 0 | 2025-08-07 |
-| **Total** | **5** | 2025-08-07 |
+| **Total** | **9** | 2025-08-07 |
 
 *(Last automated update: 2025-08-07)*
