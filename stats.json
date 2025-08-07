@@ -1,0 +1,45 @@
+{
+  "last_update": "2025-08-07",
+  "languages": {
+    "java": {
+      "count": 5,
+      "difficulty": {
+        "easy": 5,
+        "medium": 0,
+        "hard": 0
+      }
+    },
+    "cpp": {
+      "count": 0,
+      "difficulty": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      }
+    },
+    "python": {
+      "count": 0,
+      "difficulty": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      }
+    },
+    "react": {
+      "count": 0,
+      "difficulty": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      }
+    },
+    "functional": {
+      "count": 0,
+      "difficulty": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      }
+    }
+  }
+}
